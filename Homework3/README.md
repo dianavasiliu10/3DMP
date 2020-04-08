@@ -1,3 +1,6 @@
-In this project, I made 3D models of the chess pieces and, as a bonus, the chess table. 
+Task for this project: make 3D models of the chess pieces using the following sketch, given in .svg format
 
-On the chess table, I placed the pieces and changed the appearance of all of the components.
+<img src="images/sketch.png">
+
+
+BONUS: Model the chess table, multiply and place the pieces on it and change the appearance of the whole project
