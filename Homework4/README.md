@@ -1,4 +1,5 @@
-#### Tasks for this homework:
+Tasks for this homework:
+
     1. Design the [Scotch Yoke Mechanism](https://www.youtube.com/watch?v=HhX-8RyP214) taking the course as reference
         - use Fusion Rule no.1
         - add appearance
