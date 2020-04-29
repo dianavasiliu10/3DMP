@@ -22,3 +22,9 @@ construction planes or any element that you include in your project
 6. Add joints and create a motion study
 
 7. Add appearances and render the mechanism
+
+
+
+My final product: 
+
+<img src="render.PNG">
