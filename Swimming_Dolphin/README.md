@@ -5,3 +5,9 @@ It is a mechanism that has a handle on the right and 2 gears that rotate the mai
 How the final product should look and work like:
 
 <img src="dolphin_final.gif">
+
+Current status:
+- done the mechanism and the holder
+- added gears for the handle
+- added joints and motion study
+- started modeling the dolphin parts
