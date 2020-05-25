@@ -7,7 +7,10 @@ How the final product should look and work like:
 <img src="dolphin_final.gif">
 
 Current status:
-- done the mechanism and the holder
+- done the mechanism and the holder (the case)
 - added gears for the handle
 - added joints and motion study
-- started modeling the dolphin parts
+- finished modeling the dolphin parts
+- added handle
+- added the dolphin logo
+- added appearance
