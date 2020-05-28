@@ -45,6 +45,19 @@ The easiest way to see the animation is by playing the only motion study in the 
 
 <img src="images/prusa.png" width="30px"> The slicer I use is the [Prusa Slicer](https://www.prusa3d.com/prusaslicer/), for the Prusa 3D Printers in our University's facilities.
 
+### Features
+
+The case, the pistons and the waves were the easy part. I mostly used Extrude and Fillet on the sketch I made using the canvases or using the original .stl files for measuring.
+
+Fusion 360 comes with a Spur Gear add-in, so the gears were generated automatically. I only had to calculate the dimensions I need for them to work properly.
+
+The main crank was also easily made with extrusion, along with offset planes, and then split in half on the axis middle with the Split Body tool, using a plane.
+
+The hard part was, obviously, the dolphin. It is made of 10 different components, all made using the Loft tool and offset planes for the sketches. The flippers and the tail were made using the Form tool, which allowed me to free-hand model the parts (I only modeled half of each of these 2 parts and then used the Mirror tool).
+
+There are also a lot of Joints of different types, like Slider Joints for the pistons and Revolute Joints for thhe gears and the crank.
+
+
 ## Files
 
 The repository contains the .f3d file for Fusion 360 and .stl files for the preferred slicer to print the model.
