@@ -21,7 +21,7 @@ First of all, the handle must be powered with a rotation movement from the handl
 
 The crank is made of discs positioned at different heights on the main axis for the pistons to be also at different heights. The pistons should never be at the same height (at least not the neighbouring pistons), otherwise there will be no swimming effect.
 
-This main crank, in its rotation, moves the pistons up and down (also using gravity for the pistons to come back down), which, of course, move the dolphin parts connected to them. And there it is! A nice fat swimming dolphin :)
+This main crank, in its rotation, moves the pistons up and down (also using gravity for the pistons to come back down), which, of course, move the dolphin parts connected to them. And there it is! A nice fat swimming dolphin :blush:
 
 For the technical part, the main joints used to make the dolphin swim are revolute joints on the handle, gears and crank and slider joints on the pistons (to slide through the upper case holes).
 
